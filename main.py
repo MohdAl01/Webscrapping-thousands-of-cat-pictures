@@ -3,7 +3,7 @@ import requests
 
 
 """ 
-Iscraped the website pets4homes. I first found all listings of cats of a specific breed. I then got the specific link to each listing,and scraped
+I scraped the website pets4homes. I first found all listings of cats of a specific breed. I then got the specific link to each listing,and scraped
  every picture on that page. For some reason, every single element in the website's html document has a random string of letters as its name,
 meaning I cant use classes or IDs to look for specific links.
 to get around this I looked for links which begin with "classified", as these are the only links with the pictures. 
