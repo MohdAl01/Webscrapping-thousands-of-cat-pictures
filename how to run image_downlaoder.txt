@@ -1,0 +1,7 @@
+I copied that code from
+https://betterprogramming.pub/building-an-imagedownloader-with-multiprocessing-in-python-44aee36e0424
+
+The script runs in the command line. To use: open cmd in the directory with image_downloader.py and the text files. Then type:
+
+py image_downloader.py *name of text file.txt* 
+
